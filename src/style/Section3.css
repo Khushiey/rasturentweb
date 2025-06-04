@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page2{
+    width: 100vw;
+    height: 90vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 80vw;
+    height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin: 50px 0;
+  align-items: center;
+  background-color: beige;
+  overflow: hidden;
+}
+ .tag{
+    align-self: center;
+}
+.tag button{
+    background-color: green;
+    padding: 18px 50px;
+    font-size: 26px;
+    color: white;
+    
+}
+.box h1{
+    font-size: 50px;
+    font-weight: 200;
+    
+}
+.grid{
+    display: grid;
+    gap: 30px;
+    grid-template-areas:"I1 I1 I2 I3" "I1 I1 I2 I7 " "I4 I5 I6 I7 "
+    ;
+}
+img{
+    max-width: 100%;
+}
+.img1 img{
+ height: 600px;
+    width: 630px;
+} 
+.img2 img{
+ height: 600px;
+    width: 300px;
+}
+.img3 img{
+ height: 300px;
+    width: 300px;
+}
+.img4 img{
+     height: 300px;
+    width: 300px;
+}
+.img5 img{
+    height: 300px;
+    width: 300px; 
+}
+.img6 img{
+     height: 300px;
+    width: 300px;
+}
+.img7 img{
+ height: 600px;
+    width: 300px;
+}
+.img1{
+    grid-area: I1;
+   
+}
+.img2{
+    grid-area: I2;
+   
+}
+.img3{
+    grid-area: I3;
+   
+}
+.img4{
+    grid-area: I4;
+    
+}
+.img5{
+    grid-area: I5;
+    
+}
+.img6{
+    grid-area: I6;
+    
+}
+.img7{
+    grid-area: I7;
+    
+}

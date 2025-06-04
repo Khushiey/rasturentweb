@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.scontainer{
+     width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    
+}
+.section1{
+    width: 80vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    background-color: beige;
+    overflow: hidden;
+}
+.left{
+    width: 32%;
+    height: 90%;
+   
+}
+.left img{
+    width: 100%;
+    height: auto;
+    border-radius: 38rem;
+}
+.right{
+    width: 32%;
+    height: 60%;
+    background-color: rgb(243, 243, 208);
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+.cont h1{
+   font-size: 100px; 
+   font-weight: 200;
+}
+.cont p{
+    font-size: 22px;
+    line-height: 20px;
+    word-spacing: 5px;
+    font-weight: 100;
+}
+.gbtn button{
+    padding:12px 60px;
+    background-color: green;
+    font-size: 16px;
+    color: white;
+
+    
+
+}
+.obtn button{
+     padding:25px 40px;
+    background-color: rgb(243, 202, 115);
+    font-size: 25px;
+    color: white;
+
+}
+
