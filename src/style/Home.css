@@ -55,31 +55,3 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
 }
-@media (max-width: 786px) {
-    .section1{
-        flex-direction: column;
-    }
-    .left{
-        display: flex;
-        justify-content: center;
-    }
-    .left img{
-        width: 80%;
-    }
-h1{
-    font-size: 2rem;
-}
-h2{
-    font-size: 1.5rem;
-}
-h3,h4{
-    font-size: 1.3rem;
-}
-p{
-    font-size: 1rem;
-}
-.right{
-    gap: 10px;
-}
-    
-}
