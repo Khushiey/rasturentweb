@@ -3,7 +3,6 @@ export default function Section2(){
     return(
         <>
         <div className="section2">
-             <div className="s2container">
              <div className="s2cont">
                 <div className="conts">
                     <div className="img">
@@ -35,7 +34,7 @@ export default function Section2(){
                 </div>
              </div>
              </div>
-        </div>
+        
         
         </>
     )

@@ -2,7 +2,7 @@ import '../style/Section3.css'
 export default function Section3() {
     return (
         <>
-            <div className="page2">
+            
                 <div className="box">
                     <div className="tag">
                     <button>Our Menu</button>
@@ -34,7 +34,7 @@ export default function Section3() {
                     
                 </div>
 
-            </div>
+            
                    </>
     )
 }

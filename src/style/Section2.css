@@ -5,20 +5,12 @@
 .section2{
     width: 100vw;
     height: 30vh;
-    background-color: gray;
+    background-color: beige;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.s2container{
-    width: 80vw;
-    height: 30vh;
-    background-color:beige;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-}
+
 .s2cont{
     width: 70%;
     height: 80%;
@@ -38,13 +30,13 @@
     font-weight: 200;
 }
 .conts img{
-    width: 150px;
-    height: 120px;
+    width: 10vw;
+    height: 8vh;
 }
 .conts h1{
-    font-size: 26px;
+    font-size: 1vw;
 }
 .conts p{
-    font-size: 18px;
+    font-size: 0.5vw;
     color: gray;
 }

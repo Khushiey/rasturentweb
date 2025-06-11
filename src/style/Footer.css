@@ -1,14 +1,6 @@
-.end{
-    width: 100vw;
-    height: 30vh;
-    background-color: gray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
-}
 .footer{
-    width: 80vw;
+    width: 100vw;
     height: 30vh;
     background-color: pink;
      display: flex;
@@ -22,32 +14,32 @@
     height: 80%;
      display: flex;
     justify-content: center;
-    gap:100px ;
+    gap:5vw ;
 
 }
 
 .links h1{
-    font-size: 35px;
+    font-size: 1.5vw;
     font-weight: 200;
     
 }
 .links h4,h3{
-    font-size: 30px;
+    font-size: 1vw;
     color: gray;
     font-weight: 200;
 }
 .links button{
-    padding: 5px 70px;
-    margin-top: 10px;
-    font-size: 22px;
+    padding: 0.5vw 3vw;
+    margin-top: 1vw;
+    font-size: 1vw;
     
 }
 .links h3{
-    margin-top: 10px;
+    margin-top: 1vw;
 }
 .sm{
-    margin-top: 10px;
-    font-size: 40px;
+    margin-top: 1vw;
+    font-size: 2vw;
     display: flex;
-    gap: 15px;
+    gap: 1vw;
 }

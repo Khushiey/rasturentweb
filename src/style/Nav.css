@@ -1,0 +1,43 @@
+
+.container{
+    width: 100vw;
+    height: 10vh;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.nav{
+    width: 60vw;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: beige;
+}
+.logo{
+    display: flex;
+    gap: 0.2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: green;
+}
+.logo h1{
+    
+    font-size: 3vw;  
+
+}
+.logo h2{
+    margin-top: 1vw;
+    font-size:1.5vw ;
+}
+.logo span{
+    font-size: 2.5vw;
+}
+.menu{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5vw;
+}

@@ -5,7 +5,7 @@ import { faFacebook, faInstagram, faTwitter, faYoutube } from '@fortawesome/free
 export default function Footer() {
     return (
         <>
-            <div className="end">
+    
                 <div className="footer">
                     <div className="fcont">
                         <div className="logo">
@@ -40,7 +40,7 @@ export default function Footer() {
                         </div>
                     </div>
                 </div>
-            </div>
+            
         </>
     )
 }
