@@ -5,7 +5,7 @@ export default function Section1() {
             
                 <div className="section1">
                     <div className="left">
-                        <img src='src/component/e22fdeba3355a70e2346638a23fc0a79d39f633c (1).jpg' />
+                        <img src='https://images.wanderon.in/blogs/new/2024/08/jamshedpur-food-culture.webp' />
                     </div>
                     <div className="right">
                         <div className="gbtn">

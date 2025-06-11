@@ -6,7 +6,7 @@ export default function Section2(){
              <div className="s2cont">
                 <div className="conts">
                     <div className="img">
-                <img src='src/component/7fe9a430dfeb888c8da8bfaabd19744999c6292c.png'/>
+                <img src='https://cdn-icons-png.flaticon.com/512/3658/3658550.png'/>
                     </div>
                     <div className="text">
                         <h1>Discount Voucher</h1>
@@ -16,7 +16,7 @@ export default function Section2(){
                     </div>
                      <div className="conts">
                     <div className="img">
-                 <img src='src/component/f67f40c47fdd16dfc11f6993c5647ef9b0ae758f.png'/>
+                 <img src='https://cdn-icons-png.flaticon.com/512/1868/1868787.png'/>
                     </div>
                     <div className="text">
                         <h1>Fresh Healthy Food</h1>
@@ -25,7 +25,7 @@ export default function Section2(){
                     </div>
                      <div className="conts">
                     <div className="img">
-                 <img src='src/component/44fab96de757d4b67d03d2afcdaa1a097170fb06.png'/>
+                 <img src='https://cdn-icons-png.flaticon.com/512/3351/3351471.png'/>
                     </div>
                     <div className="text">
                         <h1>Fast Home Delivery</h1>
